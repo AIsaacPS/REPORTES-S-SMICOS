@@ -1,0 +1,113 @@
+﻿Reporte Técnico | Sismo del 4 de mayo de 2026 |  M5.6 |  Pinotepa Nacional, Oax
+
+
+  
+
+
+
+1.  Resumen Ejecutivo
+El 4/mayo/2026 a las 09:19:25 CST (15:19:25 UTC), se registró un sismo M5.6 a 9 km de profundidad, con epicentro a 24 km al Oeste de Pinotepa Nacional, OAX (16.32°N / -98.27°O) SkyAlert emitió alerta FUERTE para la zona epicentral y LEVE para CDMX y Estado de México, con una latencia de confirmación sísmica de 5.0 s (Alta). Se recibieron 7.3K evaluaciones de usuarios, XX % calificaron la alerta como ?.
+Desempeño General
+	
+
+	▼  SUB ALERTADO
+	
+
+	
+
+	
+
+
+
+2.  Mapa de Percepción Sísmica
+
+
+Figura 1. Mapa de Percepción de Usuarios SkyAlert. Epicentro SSN M5.6 (estrella). Radios de alertamiento: Débil (azul), Leve (verde), Moderado (Amarillo) y Fuerte (Naranja).
+3.  Detalles de la Detección
+
+
+Primer registro
+	Sensor 
+	Latencia Lc (s)
+	Hora (UTC)
+	Sensor de confirmación
+	Cuajinicuilapa
+	1604142
+	5.0
+	15:19:31 UTC
+	Pinotepa — 1604159
+	
+
+4.  Clústeres Activos — Gales Máximos
+
+
+Clúster
+	Dist epicentral. (km)
+	Gales máx.
+	Sensor
+	Ometepec
+	53.9
+	73.7
+	1604057
+	Pinotepa
+	0.0
+	21.56
+	1604067
+	Cuajinicuilapa
+	41.9
+	54.11
+	1610566
+	Ometepec
+	53.9
+	73.70
+	1604133
+	Río Grande
+	74.7
+	6.15
+	1610428
+	Puerto Escondido
+	116.2
+	3.73 
+	1604127 / 1610444
+	Cruz Grande
+	122.4
+	5.13
+	1604065 / 1604381
+	Ayutla
+	131.7
+	5.33
+	1604129 / 1604479
+	San Marcos
+	151.7
+	3.22
+	1604140 / 1610563
+	
+
+5.  Evaluación del Desempeño por Usuarios  (n = 7.3k)
+
+
+
+
+6.  Conclusiones y Recomendaciones
+
+
+#
+	Conclusión / Recomendación
+	Prioridad
+	1
+	El sistema debió alertar con intensidad Moderado a la zona especial (Ciudad de México y Estado de México).
+	Alta
+	2
+	Evaluar ajuste de umbrales para eventos similares en la región costera de Oaxaca.
+	Alta
+	3
+	Evaluar ajuste de umbrales para eventos similares en la región costera de Guerrero.
+	Media
+	4
+	Instrumentar con nuevos sensores la región epicentral
+	Media
+	
+
+
+
+SkyAlert México  ·  Confidencial, uso interno           Elaborado por: Isaac Pérez  ·  04/05/2026
